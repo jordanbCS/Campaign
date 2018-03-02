@@ -9,6 +9,11 @@ Two players = No Anarchist group and no presidential veto powers.
 
 Inspired by Illuminati, bitcoin, Game of Coins.  
 
+### Assets  
+
+https://j3.braincoin.org/owncloud/index.php/f/14999  
+
+
 ## Game Pieces  
 
 2 Dice  
