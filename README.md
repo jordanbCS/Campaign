@@ -140,6 +140,7 @@ Old-Guard Business - 9,7,2 - BB, R
 The Reddit moderators  
 Lawyers  
 The NRA  
+American Legislative Exchange Council  
 The Baby Boomers  
 Real-Estate Developers  
 Environmentalists  
