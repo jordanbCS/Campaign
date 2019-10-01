@@ -160,6 +160,7 @@ Documentarians
 E-Voting Lobby  
 Conspiracy theorists  
 The transhumanists  
+Freemasons
 
 ## President Cards
 
@@ -217,6 +218,9 @@ Seat losses: At the end of a players turn the player sums up the number of cards
 Players keep track of the sequence of governments they have formed in order to meet their winning conditions.
 
 
-TBD:  
+## TBD    
 Money movements  
 Hierarchy Arrangements
+
+## Additional possible related ideas  
+The Square and the Tower: Networks and Power, from the Freemasons to Facebook  
