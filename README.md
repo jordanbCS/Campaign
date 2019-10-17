@@ -1,7 +1,7 @@
 # Campaign  
 
 
-<img src="https://j3.braincoin.org/owncloud/index.php/apps/files_sharing/ajax/publicpreview.php?x=1542&y=573&a=true&file=IMG_20180301_192733.jpg&t=dgyaBqzVcn2qGW3&scalingup=0" width=600>  
+<img src="https://smartamerican.com/campaign/assets/IMG_20180301_192733.jpg" width=600>  
 
 2-7 players
 
@@ -11,7 +11,7 @@ Inspired by Illuminati, and 1960: The Making of the President
 
 ### Assets  
 
-https://j3.braincoin.org/owncloud/index.php/f/14999  
+https://smartamerican.com/campaign/assets    
 
 
 ## Game Pieces  
