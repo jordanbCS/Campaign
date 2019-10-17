@@ -1,7 +1,6 @@
 # Campaign  
 
-
-<img src="https://smartamerican.com/campaign/assets/IMG_20180301_192733.jpg" width=600>  
+![image](https://smartamerican.com/campaign/assets/IMG_20180301_192733.jpg)
 
 2-7 players
 
