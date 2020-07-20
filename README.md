@@ -223,3 +223,7 @@ Hierarchy Arrangements
 
 ## Additional possible related ideas  
 The Square and the Tower: Networks and Power, from the Freemasons to Facebook  
+
+https://www.reddit.com/r/boardgames/comments/gml5zd/card_game_about_programmersit_free_print_play_it/  
+
+
