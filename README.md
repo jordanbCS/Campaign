@@ -50,7 +50,12 @@ electability: 10
 
 ### Independents  
 
-Special win: Collect one card of each type.  
+````
+```
+Special win: Collect one card of each type.     
+```
+````
+
 Negative control alignments are overridden.  
 discipline: low  
 contributions: 6  
@@ -59,7 +64,12 @@ electability: 8
 
 ### Republicans  
 
+````
+```
 Special win: Six BB cards  
+```
+````
+
 +3 on election rolls  
 discipline: high  
 contributions: 10  
