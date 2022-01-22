@@ -8,11 +8,6 @@ Two players = No Anarchist group and no presidential veto powers.
 
 Inspired by Illuminati, and 1960: The Making of the President   
 
-### Assets  
-
-https://smartamerican.com/campaign/assets    
-
-
 ## Game Pieces  
 
 2 Dice  
