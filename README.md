@@ -186,7 +186,7 @@ Sex scandal - -2 on election roll.
 Scathing roast - -1 on election roll. "Wait, is this satire?"  
 Unfortunate photo-Op - Pay $6 to the bank or whoever controls the "Liberal Media" group. "How were you supposed to know your zipper was down?"  
 Embarrassing  gaffe - "Misspell Czechoslovakia, use up veto blocking an investigation into Czech oil dealings".  
-
+Presidential Parkinson's - controlled power vacuum resets all bidding candidates to rolling 2 or less.
 
 ## Starting the game  
 
