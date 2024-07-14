@@ -11,13 +11,13 @@ Inspired by Illuminati, and 1960: The Making of the President
 
 ## Game Pieces  
 
-2 Dice  
+2 dice  
 Money  
-Ideology Cards  
-President Cards  
-Special Interest Group Cards  
+Ideology cards  
+President cards  
+Special interest group cards  
 15 Seats  
-10 Roll Number Tokens  
+10 roll number tokens  
 
 ## Objective  
 
@@ -33,9 +33,7 @@ MM := read as "mass movement"
 
 ### Democrats  
 ````
-```
 Special win: <c|m|M><c|m|M><m|M><m|M>  
-```
 ````
 +3 on floor crossing offers  
 discipline: high  
@@ -45,9 +43,7 @@ electability: 10
 ### Independents  
 
 ````
-```
 Special win: Collect one card of each type.     
-```
 ````
 
 Negative control alignments are overridden.  
@@ -59,9 +55,7 @@ electability: 8
 ### Republicans  
 
 ````
-```
 Special win: Six BB cards  
-```
 ````
 
 +3 on election rolls  
@@ -104,9 +98,7 @@ electability: 7
 ## Special Interest Groups  
 
 ````
-```
 <Group Name> - <Contributions>, <influence>, <cooperativeness> {- {<BB|B|W|MM>}{,}{<L,R,C>}}
-```
 ````
 
 The Military Industrial Complex - 6,8,3  
@@ -127,27 +119,27 @@ The Military Vote - 1,2,1
 The Prison Industrial Complex - 5,4,1 - BB, R  
 The ACLU - 1,1,0 - MM, L  
 AIPAC - 6,6,4 - R  
-Saudi Oil Magnets - 5,5,1 - BB  
+Saudi oil magnets - 5,5,1 - BB  
 Artists - 0,9,2 - MM, L  
-The Bible Belt - 5,6,2  
-The Gay Vote - 4,4,5 - MM  
-The Female Vote - 3,5,4  
-Organized Crime - 3,3,5  
-Old People - 6,7,4  
+The Bible belt - 5,6,2  
+The gay vote - 4,4,5 - MM  
+The female vote - 3,5,4  
+Organized crime - 3,3,5  
+Old people - 6,7,4  
 Universities - 3,6,3 - MM, L  
-The Colonies - 3,2,2  
-Old-Guard Business - 9,7,2 - BB, R  
+The colonies - 3,2,2  
+Old-guard business - 9,7,2 - BB, R  
 
 ### Group ideas
 
-The Reddit moderators  
+Reddit moderators  
 Lawyers  
 The NRA  
 American Legislative Exchange Council  
-The Baby Boomers  
-Real-Estate Developers  
+The baby boomers  
+Real-estate developers  
 Environmentalists  
-Parent-Teacher Groups    
+Parent-teacher Groups    
 The private-army lobby  
 The anti-abortion fanatics  
 Mom and Pop Stores  
@@ -161,9 +153,9 @@ The healthcare Lobby
 Documentarians  
 E-voting lobby  
 Conspiracy theorists  
-CUFI
-Meta
-Tik Tok
+CUFI  
+Meta  
+Tik Tok  
 
 
 ## President Cards
