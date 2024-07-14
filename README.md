@@ -26,11 +26,9 @@ Every ideology has unique goals. In general, a particular ideology is attempting
 ## Ideology cards  
 
 ````
-```  
 <c|m|M>  := read as "coalition or minority or majority"
 B|BB := read as "business or big business alignment"  
 MM := read as "mass movement"  
-```  
 ````  
 
 ### Democrats  
@@ -156,20 +154,20 @@ The Anti-Abortion fanatics
 Mom and Pop Stores  
 Sports Fans  
 Oprah Fanatics  
-The Intelligence Community  
-Former Presidents  
+The "intelligence community"  
+Former presidents  
 Top scientists  
-The animal Rights lobby  
+The animal rights lobby  
 The healthcare Lobby  
 Documentarians  
-E-Voting Lobby  
+E-voting lobby  
 Conspiracy theorists  
-The transhumanists  
-Freemasons
+  
+
 
 ## President Cards
 
-Favorable Supreme Court - Stop election roll on the highest die  
+Favourable supreme court - Stop election roll on the highest die  
 Wiretapping backfire - -4 on election roll  
 Develop Alzheimers - Lose the latest election type from your sequence (not start over)  
 Paid vacation - Collect $20. "Take a couple hundred days off work."  
@@ -177,15 +175,14 @@ Past history - -3 on election roll. "How were you supposed to know that Archive.
 Pardon - Play this card after you lose a seat or group, you will automatically get it back.  
 Drunk daughters - Roll the dice and pay that amount to the bank or whoever has the "Lawyers" group.  
 Assassination Attempt - +1 on election roll.  
-Terrorist Attack - Add your current election type to your sequence. i.e. `<M> --> <M><M> `  
+Terrorist Attack - Add your current election type to your sequence. e.g. `<M> --> <M><M> `  
 FOI request - -1 on election roll. "Your clandestine activities in Latin America have been exposed."  
 Signing statement - +2 on election roll. "Pass a popular law while surreptitiously excusing yourself from it."  
 *gate - "You got busted doing something stupid. You will not be a part of a government on this election."  
-Spoiled ballots - Roll a die. Add to your election roll if an even number, subtract if an odd.  
-Sex scandal - -2 on election roll.  
+Spoiled ballots - Roll a die. Add to your election roll if an even number, subtract if an odd.    
 Scathing roast - -1 on election roll. "Wait, is this satire?"  
 Unfortunate photo-Op - Pay $6 to the bank or whoever controls the "Liberal Media" group. "How were you supposed to know your zipper was down?"  
-Embarrassing  gaffe - "Misspell Czechoslovakia, use up veto blocking an investigation into Czech oil dealings".  
+Embarrassing  gaffe - "Misspell Czechoslovakia and use up veto blocking an investigation into Czech oil dealings".  
 Presidential Parkinson's - controlled power vacuum resets all bidding candidates to rolling 2 or less.
 
 ## Starting the game  
