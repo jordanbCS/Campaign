@@ -147,12 +147,11 @@ American Legislative Exchange Council
 The Baby Boomers  
 Real-Estate Developers  
 Environmentalists  
-Parent-Teacher Groups  
-The Domestic Security Bureaucracy  
-The Private-Army lobby  
-The Anti-Abortion fanatics  
+Parent-Teacher Groups    
+The private-army lobby  
+The anti-abortion fanatics  
 Mom and Pop Stores  
-Sports Fans  
+Sports fans  
 Oprah Fanatics  
 The "intelligence community"  
 Former presidents  
@@ -162,7 +161,9 @@ The healthcare Lobby
 Documentarians  
 E-voting lobby  
 Conspiracy theorists  
-  
+CUFI
+Meta
+Tik Tok
 
 
 ## President Cards
@@ -174,8 +175,8 @@ Paid vacation - Collect $20. "Take a couple hundred days off work."
 Past history - -3 on election roll. "How were you supposed to know that Archive.org stores everything you've ever written on the net?   
 Pardon - Play this card after you lose a seat or group, you will automatically get it back.  
 Drunk daughters - Roll the dice and pay that amount to the bank or whoever has the "Lawyers" group.  
-Assassination Attempt - +1 on election roll.  
-Terrorist Attack - Add your current election type to your sequence. e.g. `<M> --> <M><M> `  
+Assassination attempt - +1 on election roll.  
+Terrorist attack - Add your current election type to your sequence. e.g. `<M> --> <M><M> `  
 FOI request - -1 on election roll. "Your clandestine activities in Latin America have been exposed."  
 Signing statement - +2 on election roll. "Pass a popular law while surreptitiously excusing yourself from it."  
 *gate - "You got busted doing something stupid. You will not be a part of a government on this election."  
