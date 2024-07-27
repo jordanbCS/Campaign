@@ -1,6 +1,7 @@
 # Campaign  
 
-![image](https://smartamerican.com/campaign/assets/IMG_20180301_192733.jpg)
+
+<img src=https://i.imgur.com/hxKuMeL.jpg width=500>  
 
 2-7 players
 
@@ -8,20 +9,15 @@ Two players = No Anarchist group and no presidential veto powers.
 
 Inspired by Illuminati, and 1960: The Making of the President   
 
-### Assets  
-
-https://smartamerican.com/campaign/assets    
-
-
 ## Game Pieces  
 
-2 Dice  
+2 dice  
 Money  
-Ideology Cards  
-President Cards  
-Special Interest Group Cards  
+Ideology cards  
+President cards  
+Special interest group cards  
 15 Seats  
-10 Roll Number Tokens  
+10 roll number tokens  
 
 ## Objective  
 
@@ -30,18 +26,14 @@ Every ideology has unique goals. In general, a particular ideology is attempting
 ## Ideology cards  
 
 ````
-```  
 <c|m|M>  := read as "coalition or minority or majority"
 B|BB := read as "business or big business alignment"  
 MM := read as "mass movement"  
-```  
 ````  
 
 ### Democrats  
 ````
-```
 Special win: <c|m|M><c|m|M><m|M><m|M>  
-```
 ````
 +3 on floor crossing offers  
 discipline: high  
@@ -51,9 +43,7 @@ electability: 10
 ### Independents  
 
 ````
-```
 Special win: Collect one card of each type.     
-```
 ````
 
 Negative control alignments are overridden.  
@@ -65,9 +55,7 @@ electability: 8
 ### Republicans  
 
 ````
-```
 Special win: Six BB cards  
-```
 ````
 
 +3 on election rolls  
@@ -110,9 +98,7 @@ electability: 7
 ## Special Interest Groups  
 
 ````
-```
 <Group Name> - <Contributions>, <influence>, <cooperativeness> {- {<BB|B|W|MM>}{,}{<L,R,C>}}
-```
 ````
 
 The Military Industrial Complex - 6,8,3  
@@ -133,64 +119,64 @@ The Military Vote - 1,2,1
 The Prison Industrial Complex - 5,4,1 - BB, R  
 The ACLU - 1,1,0 - MM, L  
 AIPAC - 6,6,4 - R  
-Saudi Oil Magnets - 5,5,1 - BB  
+Saudi oil magnets - 5,5,1 - BB  
 Artists - 0,9,2 - MM, L  
-The Bible Belt - 5,6,2  
-The Gay Vote - 4,4,5 - MM  
-The Female Vote - 3,5,4  
-Organized Crime - 3,3,5  
-Old People - 6,7,4  
+The Bible belt - 5,6,2  
+The gay vote - 4,4,5 - MM  
+The female vote - 3,5,4  
+Organized crime - 3,3,5  
+Old people - 6,7,4  
 Universities - 3,6,3 - MM, L  
-The Colonies - 3,2,2  
-Old-Guard Business - 9,7,2 - BB, R  
+The colonies - 3,2,2  
+Old-guard business - 9,7,2 - BB, R  
 
 ### Group ideas
 
-The Reddit moderators  
+Reddit moderators  
 Lawyers  
 The NRA  
 American Legislative Exchange Council  
-The Baby Boomers  
-Real-Estate Developers  
+The baby boomers  
+Real-estate developers  
 Environmentalists  
-Parent-Teacher Groups  
-The Domestic Security Bureaucracy  
-The Private-Army lobby  
-The Anti-Abortion fanatics  
+Parent-teacher Groups    
+The private-army lobby  
+The anti-abortion fanatics  
 Mom and Pop Stores  
-Sports Fans  
+Sports fans  
 Oprah Fanatics  
-The Intelligence Community  
-Former Presidents  
+The "intelligence community"  
+Former presidents  
 Top scientists  
-The animal Rights lobby  
+The animal rights lobby  
 The healthcare Lobby  
 Documentarians  
-E-Voting Lobby  
+E-voting lobby  
 Conspiracy theorists  
-The transhumanists  
-Freemasons
+CUFI  
+Meta  
+Tik Tok  
+
 
 ## President Cards
 
-Favorable Supreme Court - Stop election roll on the highest die  
+Favourable supreme court - Stop election roll on the highest die  
 Wiretapping backfire - -4 on election roll  
 Develop Alzheimers - Lose the latest election type from your sequence (not start over)  
 Paid vacation - Collect $20. "Take a couple hundred days off work."  
 Past history - -3 on election roll. "How were you supposed to know that Archive.org stores everything you've ever written on the net?   
 Pardon - Play this card after you lose a seat or group, you will automatically get it back.  
 Drunk daughters - Roll the dice and pay that amount to the bank or whoever has the "Lawyers" group.  
-Assassination Attempt - +1 on election roll.  
-Terrorist Attack - Add your current election type to your sequence. i.e. `<M> --> <M><M> `  
+Assassination attempt - +1 on election roll.  
+Terrorist attack - Add your current election type to your sequence. e.g. `<M> --> <M><M> `  
 FOI request - -1 on election roll. "Your clandestine activities in Latin America have been exposed."  
 Signing statement - +2 on election roll. "Pass a popular law while surreptitiously excusing yourself from it."  
 *gate - "You got busted doing something stupid. You will not be a part of a government on this election."  
-Spoiled ballots - Roll a die. Add to your election roll if an even number, subtract if an odd.  
-Sex scandal - -2 on election roll.  
+Spoiled ballots - Roll a die. Add to your election roll if an even number, subtract if an odd.    
 Scathing roast - -1 on election roll. "Wait, is this satire?"  
 Unfortunate photo-Op - Pay $6 to the bank or whoever controls the "Liberal Media" group. "How were you supposed to know your zipper was down?"  
-Embarrassing  gaffe - "Misspell Czechoslovakia, use up veto blocking an investigation into Czech oil dealings".  
-
+Embarrassing  gaffe - "Misspell Czechoslovakia and use up veto blocking an investigation into Czech oil dealings".  
+Presidential Parkinson's - controlled power vacuum resets all bidding candidates to rolling 2 or less.
 
 ## Starting the game  
 
@@ -229,11 +215,14 @@ Players keep track of the sequence of governments they have formed in order to m
 
 ## TBD    
 Money movements  
-Hierarchy Arrangements
+Hierarchy Arrangements  
 
 ## Additional possible related ideas  
 The Square and the Tower: Networks and Power, from the Freemasons to Facebook  
 
 https://www.reddit.com/r/boardgames/comments/gml5zd/card_game_about_programmersit_free_print_play_it/  
 
+## Country specific extensions  
 
+### Canada  
+ - https://www.reddit.com/r/CanadaPolitics/wiki/insults  
